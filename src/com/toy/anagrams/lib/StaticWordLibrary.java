@@ -138,7 +138,10 @@ final class StaticWordLibrary extends WordLibrary {
      */
     private StaticWordLibrary() {
     }
+public void test ()
+{
 
+}
     /**
      * Gets the word at a given index.
      * @param idx index of required word
