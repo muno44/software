@@ -155,6 +155,10 @@ public void testm ()
     public String getWord(int idx) {
         return WORD_LIST[idx];
     }
+    
+    public void testArn() {
+    
+}
 
     /**
      * Gets the word at a given index in its scrambled form.
