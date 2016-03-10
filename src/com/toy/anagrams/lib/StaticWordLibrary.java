@@ -156,7 +156,7 @@ public void testmd ()
 
 public void testmd1 ()
 {
-    System.out.print("hola1");
+    System.out.print("hola1.1");
 }
     /**
      * Gets the word at a given index.
