@@ -153,6 +153,11 @@ public void testmd ()
 {
     System.out.print("hola");
 }
+
+public void testmd1 ()
+{
+    System.out.print("hola1");
+}
     /**
      * Gets the word at a given index.
      * @param idx index of required word
