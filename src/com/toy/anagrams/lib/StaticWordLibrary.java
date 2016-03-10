@@ -31,6 +31,8 @@
 
 package com.toy.anagrams.lib;
 
+import static java.time.Clock.system;
+
 /**
  * Implementation of the logic for the Anagram Game application.
  */
@@ -146,6 +148,10 @@ public void testm ()
 
 {
     
+}
+public void testmd ()
+{
+    System.out.print("hola");
 }
     /**
      * Gets the word at a given index.
